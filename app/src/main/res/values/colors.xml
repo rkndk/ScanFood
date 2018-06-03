@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--warna app-->
+    <color name="colorPrimary">#00B774</color>
+    <color name="colorAccent">#00B774</color>
+    <color name="colorPrimaryDark">#00A474</color>
+    <color name="colorListCard">#eceff1</color>
+    <color name="colorStar">#ffca28</color>
+
+    <!--warna dasar-->
+    <color name="colorBlack">#212121</color>
+    <color name="colorWhite">#FEFEFE</color>
+    <color name="colorRed">#d50000</color>
+    <color name="colorDarkGray">#263238</color>
+    <color name="colorGray">#90a4ae</color>
+    <color name="colorNiceGreen">#00D1B2</color>
+    <color name="colorGreen">#27AE60</color>
+</resources>
