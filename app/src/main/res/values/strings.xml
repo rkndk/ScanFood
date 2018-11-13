@@ -8,6 +8,7 @@
     <string name="header_news">BERITA</string>
     <string name="header_menu">MENU</string>
     <string name="header_order_menu">DETAIL</string>
+    <string name="official_email">scanfoodindonesia@gmail.com</string>
     <!-- End Aplikasi -->
 
     <!-- QR Code Scanner -->
@@ -62,6 +63,7 @@
     <string name="creator_email_2">farasa@gmail.com</string>
     <string name="title_activity_maps">Map</string>
     <string name="header_about">ABOUT</string>
+    <string name="title_activity_maps2">Map</string>
     <!-- End Informasi Alert -->
 
 

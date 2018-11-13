@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:windowSoftInputMode="adjustResize"
     android:background="@drawable/gradient_greendark"
-    tools:context="id.ac.unsyiah.scanfood.RegisterActivity">
+    tools:context="me.rkndika.unsyiah.scanfood.id.ac.scanfood.RegisterActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/header"

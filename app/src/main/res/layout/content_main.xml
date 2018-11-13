@@ -9,7 +9,7 @@
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:showIn="@layout/activity_main"
     android:background="@color/colorWhite"
-    tools:context="id.ac.unsyiah.scanfood.MainActivity">
+    tools:context="me.rkndika.unsyiah.scanfood.id.ac.scanfood.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

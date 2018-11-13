@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="id.ac.unsyiah.scanfood.OrderMenuActivity">
+    tools:context="me.rkndika.unsyiah.scanfood.id.ac.scanfood.OrderMenuActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/header"

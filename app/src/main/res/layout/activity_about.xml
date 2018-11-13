@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="id.ac.unsyiah.scanfood.AboutActivity">
+    tools:context="me.rkndika.unsyiah.scanfood.id.ac.scanfood.AboutActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/header"
